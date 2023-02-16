@@ -16,6 +16,3 @@ describe("dnaPairs()", () => {
     expect(output).toEqual(expected);
   });
 });
-
-// example1 test -
-// Wrong data format as an input. Input should be a string not an Array.
